@@ -28,10 +28,15 @@ py toolkit.py create {version} {name-build}
 - 1.8.8
 
 3.
+
 ```shell script
 npm install
 ```
 
 ```shell script
 node toolkit.js eula:true {name-build}
+```
+
+```shell script
+node toolkit.js sp:enable {name-build}
 ```
