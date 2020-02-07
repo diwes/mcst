@@ -1,0 +1,19 @@
+name: Complete
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Notify Telegram
+      uses: yanzay/notify-telegram@v0.1.0
+      with:
+        # Chat to send: chat id or @channel_name
+        chat: 790946853
+        # Telegram Bot token
+        token: 1080289844:AAFl6U07Td0oiQFYMlLSrBKkbesXN6bdbYE
+        # Job status
+        status: Cool
