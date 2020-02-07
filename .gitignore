@@ -6,3 +6,5 @@
 out
 gen
 .cache
+builds
+node_modules

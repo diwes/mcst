@@ -7,5 +7,5 @@ cores:
   latest: "https://yivesmirror.com/api/file/paper/Paper-latest.jar"
   1.14.4: "https://yivesmirror.com/api/file/paper/Paper-1.14.4-b236.jar"
   1.13.2: "https://yivesmirror.com/api/file/paper/Paper-1.13.2-b624.jar"
-  1.8: "https://yivesmirror.com/api/file/paper/PaperSpigot-1.8.8-R0.1-SNAPSHOT-latest.jar"
+  "1.8": "https://yivesmirror.com/api/file/paper/PaperSpigot-1.8.8-R0.1-SNAPSHOT-latest.jar"
   1.8.8: "https://yivesmirror.com/api/file/paper/PaperSpigot-1.8.8-R0.1-SNAPSHOT-latest.jar"

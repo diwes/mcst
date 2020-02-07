@@ -4,7 +4,7 @@
   "description": "Minecraft Server Tools",
   "main": "toolkit.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "version": "node toolkit.js v"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/diwes/mcst/issues"
   },
-  "homepage": "https://github.com/diwes/mcst#readme"
+  "homepage": "https://github.com/diwes/mcst#readme",
+  "dependencies": {
+    "child_process": "^1.0.2"
+  }
 }
