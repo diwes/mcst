@@ -1,0 +1,22 @@
+{
+  "name": "mcst",
+  "version": "1.0.0",
+  "description": "Minecraft Server Tools",
+  "main": "toolkit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diwes/mcst.git"
+  },
+  "keywords": [
+    "mcst"
+  ],
+  "author": "FlexICE",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/diwes/mcst/issues"
+  },
+  "homepage": "https://github.com/diwes/mcst#readme"
+}
